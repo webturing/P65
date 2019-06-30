@@ -1,6 +1,5 @@
 package lec01;
 
-import javax.sound.midi.SysexMessage;
 import java.util.Arrays;
 
 //用1~9组成3个三位数a,b,c满足 `a:b:c=1:2:3`
