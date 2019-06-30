@@ -7,13 +7,30 @@
 - jdk 1.8
 - intelliJ/eclipse
 - git/github
+  - 克隆仓库 git clone
+  - 本地提交 git add/git commit
+  - 推送到服务器 git push
+  - 更新仓库 git pull
 - markdown
 - API/URL:
   - 项目代码托管 `https://github.com/`
   - 菜鸟网` http://www. runoob.com`
   - 授课资料 `https://github.com/webturing/Aptech2019BBU`
 
+## 软件开发：
+
+### 数据结构
+
+### 算法
+
+- 用1~9组成3个三位数a,b,c满足 `a:b:c=1:2:3`
+
+### 设计模式
+
+​	
+
 ## 项目概述
+
 - 基本信息
 - 功能
 - 备注
