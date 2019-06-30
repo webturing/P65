@@ -1,6 +1,7 @@
 package lec02;
 
 import java.util.Arrays;
+import java.util.List;
 import java.util.Stack;
 
 public class PostSuffixExpression {
@@ -34,7 +35,7 @@ public class PostSuffixExpression {
      * @param exp
      * @return
      */
-    private static double eval(String[] exp) {
+    public static double eval(List<String> exp) {
         Stack<Double> S = new Stack<>();
         for (String s : exp) {
             if (isNumber(s)) {
@@ -61,6 +62,10 @@ public class PostSuffixExpression {
 
         }
         return S.size() == 1 ? S.peek() : -1;
+    }
+
+    public static double eval(String[] exp) {
+        return eval(Arrays.asList(exp));//delegation 委托
     }
 }
 
