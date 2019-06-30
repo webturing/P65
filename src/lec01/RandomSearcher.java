@@ -1,4 +1,4 @@
-package lec02;
+package lec01;
 
 import java.util.Collections;
 import java.util.Vector;
