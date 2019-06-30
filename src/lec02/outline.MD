@@ -1,6 +1,6 @@
-# 第二讲： 24点计算引擎之 后缀式判断和计算模块
+# 第二讲：24点计算引擎之后缀式产生和计算模块
 ## 高精度计算
-- BigInteger `java.math.BigInteger`
+- `java.math.BigInteger` 高精度大数
 
   ```java
   BigInteger a=new BigInteger("1111111111111111111111111111111");
@@ -14,24 +14,24 @@
 
   
 
-- BigDecimal 多用于金融计算
+-  `java.math.BigDecimal`多用于金融计算
 
 - 阶乘的范围和基础算法
   
   ```java
-      static BigInteger factorial(int n){
-         BigInteger s=new BigInteger("1");
-          for(int i=2;i<=n;i++){
-              BigInteger b=new BigInteger(Integer.toString(i));
-              s=s.multiply(b);
-          }
-          return s;
+  static BigInteger factorial(int n){
+      BigInteger s=new BigInteger("1");
+      for(int i=2;i<=n;i++){
+          BigInteger b=new BigInteger(Integer.toString(i));
+          s=s.multiply(b);
       }
+      return s;
+  }
   ```
   
   
 ## 异常处理机制
-- 异常及处理try catch
+- 异常及处理`try{}catch(Exception e){}`
 
 - 动态扩容技术（数组异常的处理）
 
@@ -51,28 +51,30 @@
 
   
 
-- 浮点数判断
+- ##### 浮点数判断
 
   ```java
-   static boolean isNumber(String s) {
-          try {
+  boolean isNumber(String s) {
+        try {
               double x = Double.parseDouble(s);
               return true;
           } catch (Exception e) {
               return false;
           }
-      }
+  }
   ```
-
+  
   
 
 - 空栈异常的处理
 
 ## 后缀表达式的判断和计算
-- 栈
+- 栈`java.util.Stack`
 - 异常处理
 - 模块化
+  - 委托方法
+  - 接口设计
 
 ## 洗牌和随机求解器
-- 洗牌算法 Collections.shuffle
+- 洗牌算法 `Collections.shuffle`
 - 产生后缀式 调用求值模块来寻求解
