@@ -1,7 +1,6 @@
 package p65;
 
 public class P18SquareSysmetricNumbers {
-
     public static void main(String[] args) {
         System.out.println("No. number it's square(palindrome)");
         int no = 0;
