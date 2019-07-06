@@ -13,6 +13,7 @@ public class P42FindSlowestBoy {
                 if (l3 == 1) System.out.println("Li");
                 else if (w3 == 1) System.out.println("Wang");
                 else System.out.println("Zhang");
+
             }
         }
     }
