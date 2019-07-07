@@ -1,5 +1,5 @@
 public class P40DoctorsDuty {
-    static String[] weekdays = " MONDAY TUESDAY WEDNESDAY THUESDAY FRIDAY SATURDAY SUNDAY".split(" ");
+    static String[] weekdays = " MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY SUNDAY".split(" ");
 
     public static void main(String[] args) {
         for (int a = 1; a <= 7; a++) {
