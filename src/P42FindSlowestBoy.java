@@ -1,13 +1,15 @@
 public class P42FindSlowestBoy {
     public static void main(String[] args) {
         int l1 = 9, l2, l3, w1 = 8, w2, w3;
-        for (l2 = 7; l2 >= 2; l2--) {
+        for (l2 = l1 - 2; l2 >= 2; l2--) {
             l3 = 15 - l1 - l2;
             if (l3 < 1 || l3 == l2 || l3 == l1) continue;
-            for (w2 = 7; w2 >= 2; w2--) {
+            if (l3 + 1 == l2) continue;
+            for (w2 = w1 - 2; w2 >= 2; w2--) {
                 if (w2 == l2 || w2 == l3) continue;
                 w3 = 15 - w1 - w2;
                 if (w3 < 1 || w3 == l2 || w3 == l3 || w3 >= w2) continue;
+                if (w3 + 1 == w2) continue;
                 if (l3 == 1) System.out.println("Li");
                 else if (w3 == 1) System.out.println("Wang");
                 else System.out.println("Zhang");
