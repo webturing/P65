@@ -4,15 +4,24 @@ public class P49JosephProblem {
         int j = 0;
         for (int i = 0; i < 15; i++) {
             int cnt = 0;
-            while (cnt < 9) {
-                while (a[j % 30] == 1) j++;
+            while (cnt < 8) {
+                while (a[j] == 1) {
+                    j = (j + 1) % 30;
+                }
                 ++cnt;
-                j++;
+                j = (j + 1) % 30;
             }
-            a[(j + 29) % 30] = 1;
+            while (a[j] == 1) {
+                j = (j + 1) % 30;
+            }
+            a[j] = 1;
+            for (int k = 0; k < 30; k++) {
+                if (k == j) System.out.print('!');
+                System.out.print("@+".charAt(a[k]));
+            }
+            System.out.println();
         }
-        for (int e : a) System.out.print("+@".charAt(e));
-        System.out.println();
+
     }
 }
 //49约瑟夫问题

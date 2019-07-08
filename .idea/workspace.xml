@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b08a3691-d4b0-471d-af4f-0dbaf5f862f5" name="Default" comment="The number satisfied states condition is:1089">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/p65/P22ChickenHundredsMoney.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/P49JosephProblem.java" afterPath="$PROJECT_DIR$/src/P49JosephProblem.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,126 +14,107 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="P65.txt" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/p65/P65.txt">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="1035">
-                    <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="8" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P20FindSpecialFourDigitsNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p65/P20FindSpecialFourDigitsNumbers.java">
+      <file leaf-file-name="P65.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P65.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+            <state relative-caret-position="47">
+              <caret line="740" column="0" lean-forward="false" selection-start-line="740" selection-start-column="0" selection-end-line="747" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P21VerifyGoldbachTheory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p65/P21VerifyGoldbachTheory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P22ChickenHundredsMoney.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/p65/P22ChickenHundredsMoney.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P13FourDigitsReverseNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p65/P13FourDigitsReverseNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P16PerfectNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p65/P16PerfectNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P17IntimateNumberPairs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p65/P17IntimateNumberPairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P18SquareSysmetricNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p65/P18SquareSysmetricNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P19GetPrimers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p65/P19GetPrimers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P12AnExtraordinaryThreeDigitsNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/p65/P12AnExtraordinaryThreeDigitsNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <file leaf-file-name="P01GetMaxDivisor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P01GetMaxDivisor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P51DistubeCandies.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P51DistubeCandies.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P50WeightNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P50WeightNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P49JosephProblem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/P49JosephProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P47SubstractionRestore.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P47SubstractionRestore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="95" lean-forward="false" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P48MagiacNumbeWith1To9.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P48MagiacNumbeWith1To9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
-                <marker date="1562165867729" expanded="true" signature="106:112" ph="{}" />
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P46PutsEightNumbersAtCube.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P46PutsEightNumbersAtCube.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P42FindSlowestBoy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P42FindSlowestBoy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P41FindNationalities.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P41FindNationalities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -146,11 +128,16 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>39</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="ZHAO Jing &lt;ceo@webturing.com&gt;" />
         <option value="webturing &lt;zj@webturing.com&gt;" />
+        <option value="ZHAO Jing &lt;ceo@webturing.com&gt;" />
       </list>
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -164,10 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/p65/P08SellFish.java" />
-        <option value="$PROJECT_DIR$/src/p65/P65.txt" />
-        <option value="$PROJECT_DIR$/src/p65/P10CountFiveDigitsNumber.java" />
         <option value="$PROJECT_DIR$/src/p65/P09DivideFish.java" />
         <option value="$PROJECT_DIR$/src/p65/P11FindSpecialNumber.java" />
         <option value="$PROJECT_DIR$/src/p65/P12AnExtraordinaryThreeDigitsNumber.java" />
@@ -183,6 +166,42 @@
         <option value="$PROJECT_DIR$/src/p65/P20FindSpecialFourDigitsNumbers.java" />
         <option value="$PROJECT_DIR$/src/p65/P21VerifyGoldbachTheory.java" />
         <option value="$PROJECT_DIR$/src/p65/P22ChickenHundredsMoney.java" />
+        <option value="$PROJECT_DIR$/src/p65/P23EinsteinFindStairs.java" />
+        <option value="$PROJECT_DIR$/src/p65/P24ExchangeCoins.java" />
+        <option value="$PROJECT_DIR$/src/p65/P25FindAges.java" />
+        <option value="$PROJECT_DIR$/src/p65/P26ThreeColorBalls.java" />
+        <option value="$PROJECT_DIR$/src/p65/P65.txt" />
+        <option value="$PROJECT_DIR$/src/p65/P27MarxManuscript.java" />
+        <option value="$PROJECT_DIR$/src/p65/P28GcdLcm.java" />
+        <option value="$PROJECT_DIR$/src/p65/P29FractorComparison.java" />
+        <option value="$PROJECT_DIR$/src/p65/P30SumOfFractions.java" />
+        <option value="$PROJECT_DIR$/src/p65/P31EgyptFractions.java" />
+        <option value="$PROJECT_DIR$/src/p65/P32ListLowestFraction.java" />
+        <option value="$PROJECT_DIR$/src/p65/P33GetExactValueOfFraction.java" />
+        <option value="$PROJECT_DIR$/src/p65/P34BrideAndGroom.java" />
+        <option value="$PROJECT_DIR$/src/p65/P35Assignments.java" />
+        <option value="$PROJECT_DIR$/src/p65/P36WhoLies.java" />
+        <option value="$PROJECT_DIR$/src/p65/P37WhoIsCrimer.java" />
+        <option value="$PROJECT_DIR$/src/p65/P38ComposeStamps.java" />
+        <option value="$PROJECT_DIR$/src/p65/P39BlackOrWhite.java" />
+        <option value="$PROJECT_DIR$/src/p65/P40DoctorsShedule.java" />
+        <option value="$PROJECT_DIR$/src/p65/P40DoctorsScheduler.java" />
+        <option value="$PROJECT_DIR$/src/p65/P40DoctorsDuty.java" />
+        <option value="$PROJECT_DIR$/src/p65/P41FindNationalities.java" />
+        <option value="$PROJECT_DIR$/src/p65/P42FindSlowestBoy.java" />
+        <option value="$PROJECT_DIR$/src/p65/P43ThreeNumbersUsing1To9.java" />
+        <option value="$PROJECT_DIR$/src/P41FindNationalities.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/P40DoctorsDuty.java" />
+        <option value="$PROJECT_DIR$/src/P44LatinSquare.java" />
+        <option value="$PROJECT_DIR$/src/P45ThreeSquareNumbersUsing1To9.java" />
+        <option value="$PROJECT_DIR$/src/P46PutsEightNumbersAtCube.java" />
+        <option value="$PROJECT_DIR$/src/P47.java" />
+        <option value="$PROJECT_DIR$/src/P47SubstractionRestore.java" />
+        <option value="$PROJECT_DIR$/src/P48MagiacNumbeWith1To9.java" />
+        <option value="$PROJECT_DIR$/src/P50WeightNumbers.java" />
+        <option value="$PROJECT_DIR$/src/P51DistubeCandies.java" />
+        <option value="$PROJECT_DIR$/src/P49JosephProblem.java" />
       </list>
     </option>
   </component>
@@ -192,12 +211,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1003" />
-    <option name="width" value="1601" />
-    <option name="height" value="1609" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="2178" />
+    <option name="height" value="1122" />
   </component>
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -217,8 +237,6 @@
     <panes>
       <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,30 +247,30 @@
             <path>
               <item name="Aptech2019BBU" type="b2602c69:ProjectViewProjectNode" />
               <item name="Aptech2019BBU" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aptech2019BBU" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aptech2019BBU" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aptech2019BBU" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aptech2019BBU" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="p65" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FQYJavaFundmental" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="p65" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\webturing\IdeaProjects\Aptech2019BBU\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,15 +284,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P22ChickenHundredsMoney">
-    <configuration name="P18SquareSysmetricNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="p65.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="p65.P18SquareSysmetricNumbers" />
+  <component name="RunManager" selected="Application.P49JosephProblem">
+    <configuration name="P47SubstractionRestore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P47SubstractionRestore" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -286,14 +299,9 @@
       <module name="Aptech2019BBU" />
       <envs />
     </configuration>
-    <configuration name="P19GetPrimers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="p65.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="p65.P19GetPrimers" />
+    <configuration name="P48MagiacNumbeWith1To9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P48MagiacNumbeWith1To9" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -305,14 +313,9 @@
       <module name="Aptech2019BBU" />
       <envs />
     </configuration>
-    <configuration name="P20FindSpecialFourDigitsNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="p65.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="p65.P20FindSpecialFourDigitsNumbers" />
+    <configuration name="P49JosephProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P49JosephProblem" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -324,14 +327,9 @@
       <module name="Aptech2019BBU" />
       <envs />
     </configuration>
-    <configuration name="P21VerifyGoldbachTheory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="p65.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="p65.P21VerifyGoldbachTheory" />
+    <configuration name="P50WeightNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P50WeightNumbers" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -343,14 +341,9 @@
       <module name="Aptech2019BBU" />
       <envs />
     </configuration>
-    <configuration name="P22ChickenHundredsMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="p65.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="p65.P22ChickenHundredsMoney" />
+    <configuration name="P51DistubeCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P51DistubeCandies" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -444,19 +437,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.P18SquareSysmetricNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="Application.P19GetPrimers" />
-      <item index="2" class="java.lang.String" itemvalue="Application.P20FindSpecialFourDigitsNumbers" />
-      <item index="3" class="java.lang.String" itemvalue="Application.P21VerifyGoldbachTheory" />
-      <item index="4" class="java.lang.String" itemvalue="Application.P22ChickenHundredsMoney" />
+      <item index="0" class="java.lang.String" itemvalue="Application.P47SubstractionRestore" />
+      <item index="1" class="java.lang.String" itemvalue="Application.P48MagiacNumbeWith1To9" />
+      <item index="2" class="java.lang.String" itemvalue="Application.P49JosephProblem" />
+      <item index="3" class="java.lang.String" itemvalue="Application.P50WeightNumbers" />
+      <item index="4" class="java.lang.String" itemvalue="Application.P51DistubeCandies" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.P22ChickenHundredsMoney" />
-        <item index="1" class="java.lang.String" itemvalue="Application.P21VerifyGoldbachTheory" />
-        <item index="2" class="java.lang.String" itemvalue="Application.P20FindSpecialFourDigitsNumbers" />
-        <item index="3" class="java.lang.String" itemvalue="Application.P19GetPrimers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.P18SquareSysmetricNumbers" />
+        <item index="0" class="java.lang.String" itemvalue="Application.P49JosephProblem" />
+        <item index="1" class="java.lang.String" itemvalue="Application.P51DistubeCandies" />
+        <item index="2" class="java.lang.String" itemvalue="Application.P50WeightNumbers" />
+        <item index="3" class="java.lang.String" itemvalue="Application.P48MagiacNumbeWith1To9" />
+        <item index="4" class="java.lang.String" itemvalue="Application.P47SubstractionRestore" />
       </list>
     </recent_temporary>
   </component>
@@ -476,21 +469,27 @@
       <workItem from="1562115330377" duration="4922000" />
       <workItem from="1562141088527" duration="2929000" />
       <workItem from="1562163349933" duration="598000" />
-      <workItem from="1562165029781" duration="1162000" />
-    </task>
-    <task id="LOCAL-00001" summary="Aptech2019BBU frameworks">
-      <created>1561793835513</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1561793835513</updated>
-    </task>
-    <task id="LOCAL-00002" summary="8出售金鱼">
-      <created>1562023712998</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1562023712998</updated>
+      <workItem from="1562165029781" duration="1826000" />
+      <workItem from="1562195625451" duration="4869000" />
+      <workItem from="1562202041977" duration="50000" />
+      <workItem from="1562213347384" duration="752000" />
+      <workItem from="1562214313428" duration="1313000" />
+      <workItem from="1562217419486" duration="105000" />
+      <workItem from="1562222800056" duration="371000" />
+      <workItem from="1562223328750" duration="717000" />
+      <workItem from="1562232066301" duration="756000" />
+      <workItem from="1562234949963" duration="2581000" />
+      <workItem from="1562280159215" duration="712000" />
+      <workItem from="1562373644904" duration="3747000" />
+      <workItem from="1562390740197" duration="481000" />
+      <workItem from="1562391245196" duration="375000" />
+      <workItem from="1562423145054" duration="5297000" />
+      <workItem from="1562507291968" duration="1509000" />
+      <workItem from="1562509479818" duration="555000" />
+      <workItem from="1562545619653" duration="2522000" />
+      <workItem from="1562549342973" duration="248000" />
+      <workItem from="1562564000311" duration="1681000" />
+      <workItem from="1562576153444" duration="6444000" />
     </task>
     <task id="LOCAL-00003" summary="10 有限5位数 个位数为6且能被3整除的五位数共有多少？(原题有误应该是3000个）">
       <created>1562041664634</created>
@@ -597,37 +596,275 @@
       <option name="project" value="LOCAL" />
       <updated>1562165768187</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="22百钱百鸡问题 枚举及优化">
+      <created>1562166226771</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1562166226771</updated>
+    </task>
+    <task id="LOCAL-00019" summary="23爱因斯坦的数学题 背景是同余方程（组）解法是中国剩余定理，本题规模太小，直接暴力搜搜">
+      <created>1562196771871</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1562196771871</updated>
+    </task>
+    <task id="LOCAL-00020" summary="22百钱百鸡问题 枚举及优化">
+      <created>1562196818706</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1562196818706</updated>
+    </task>
+    <task id="LOCAL-00021" summary="24换分币 搜索（枚举）541组解答">
+      <created>1562197424848</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1562197424848</updated>
+    </task>
+    <task id="LOCAL-00022" summary="P25年龄几何 存在单调性可以二分答案">
+      <created>1562198106361</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1562198106361</updated>
+    </task>
+    <task id="LOCAL-00023" summary="P25年龄几何 存在单调性可以二分答案">
+      <created>1562198515839</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1562198515839</updated>
+    </task>
+    <task id="LOCAL-00024" summary="26三色球问题">
+      <created>1562198536541</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1562198536541</updated>
+    </task>
+    <task id="LOCAL-00025" summary="27马克思手稿中的数学题">
+      <created>1562213714302</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1562213714302</updated>
+    </task>
+    <task id="LOCAL-00026" summary="P28 最大公约数和最小公倍数 基础数论">
+      <created>1562214089220</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1562214089220</updated>
+    </task>
+    <task id="LOCAL-00027" summary="P29 分数比较：最大公约数 接口Comparable ，构造器和toString重载">
+      <created>1562215053138</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1562215053138</updated>
+    </task>
+    <task id="LOCAL-00028" summary="P30 分数之和， 利用不等式计算变量区间">
+      <created>1562223171305</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1562223171305</updated>
+    </task>
+    <task id="LOCAL-00029" summary="P31埃及分数 贪心计算出每一个最小的k满足 1/k&lt;=a/b 再计算(a/b-1/k)的埃及分数表示">
+      <created>1562235166259</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1562235166259</updated>
+    </task>
+    <task id="LOCAL-00030" summary="P32 32列出真分数序列 互质">
+      <created>1562235359155</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1562235359155</updated>
+    </task>
+    <task id="LOCAL-00031" summary="P33 分数精确值  a/b如果b仅含 2和5因子则是有限小数，否则一定是无限循环小数：循环节计算方法：（先把b-&gt;b'使得 b'不含2,5因子，然后构造一个最小的k个9，,使得9....9%b'=0,则循环节为k,具体计算可以利用模算术来避免范围溢出的问题。">
+      <created>1562237043220</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1562237043220</updated>
+    </task>
+    <task id="LOCAL-00032" summary="34新娘和新郞 逻辑枚举">
+      <created>1562237490157</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1562237490157</updated>
+    </task>
+    <task id="LOCAL-00033" summary="35委派任务 枚举组合空间">
+      <created>1562374125940</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1562374125940</updated>
+    </task>
+    <task id="LOCAL-00034" summary="P36 谁在说谎 逻辑推导">
+      <created>1562375359427</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1562375359427</updated>
+    </task>
+    <task id="LOCAL-00035" summary="P37谁是窃贼 逻辑推理">
+      <created>1562375998152</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1562375998152</updated>
+    </task>
+    <task id="LOCAL-00036" summary="P38邮票组合 访问数组标记">
+      <created>1562376439356</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1562376439356</updated>
+    </task>
+    <task id="LOCAL-00037" summary="P39 Black or White">
+      <created>1562424165216</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1562424165216</updated>
+    </task>
+    <task id="LOCAL-00038" summary="P40 DoctorsDuty">
+      <created>1562427217087</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1562427217087</updated>
+    </task>
+    <task id="LOCAL-00039" summary="P42 谁家的孩子跑的慢 貌似不太严谨?">
+      <created>1562428444247</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1562428444247</updated>
+    </task>
+    <task id="LOCAL-00040" summary="P43 ThreeNumbersUsing1To9 用1~9组成1：2：3优化枚举">
+      <created>1562428742014</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1562428742014</updated>
+    </task>
+    <task id="LOCAL-00041" summary="P42 谁家的孩子跑的慢 貌似不太严谨?">
+      <created>1562428764664</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1562428764664</updated>
+    </task>
+    <task id="LOCAL-00042" summary="refactor Projects to P65@java">
+      <created>1562428918979</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1562428918979</updated>
+    </task>
+    <task id="LOCAL-00043" summary="P44 拉丁方 简单的构造算法">
+      <created>1562508790082</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1562508790082</updated>
+    </task>
+    <task id="LOCAL-00044" summary="P45 1-9可以组成三个平方数">
+      <created>1562509861745</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1562509861745</updated>
+    </task>
+    <task id="LOCAL-00045" summary="P40 DoctorsDuty">
+      <created>1562509901449</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1562509901449</updated>
+    </task>
+    <task id="LOCAL-00046" summary="P47 减式还原：枚举">
+      <created>1562546278823</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1562546278823</updated>
+    </task>
+    <task id="LOCAL-00047" summary="P48 9可累进数，深度优先搜索">
+      <created>1562546935547</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1562546935547</updated>
+    </task>
+    <task id="LOCAL-00048" summary="P46">
+      <created>1562547432732</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1562547432732</updated>
+    </task>
+    <task id="LOCAL-00049" summary="P49约瑟夫问题的数组模拟方法（比较琐碎）">
+      <created>1562576660776</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1562576660776</updated>
+    </task>
+    <task id="LOCAL-00050" summary="P50 互不相同的砝码数 搜索数组标记">
+      <created>1562577817113</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1562577817113</updated>
+    </task>
+    <task id="LOCAL-00051" summary="P51 分糖果 要理解同时操作 建立上一次操作的副本">
+      <created>1562580958556</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1562580958556</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12060000" />
+    <option name="totallyTimeSpent" value="47809000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1003" y="0" width="1601" height="1609" extended-state="0" />
+    <frame x="-6" y="-6" width="1453" height="783" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32507288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37333333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28905207" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21388012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2209868" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25454545" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -643,24 +880,32 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Aptech2019BBU frameworks" />
-    <MESSAGE value="8出售金鱼" />
-    <MESSAGE value="10 有限5位数 个位数为6且能被3整除的五位数共有多少？(原题有误应该是3000个）" />
-    <MESSAGE value="9、    平分七筐鱼 基础的优化枚举" />
-    <MESSAGE value="11、 8 除不尽的数 continue用于复杂逻辑的剪枝" />
-    <MESSAGE value="12 一个奇异的三位数 优化枚举，进制转化" />
-    <MESSAGE value="13  4位反序数 优化枚举，字符串" />
-    <MESSAGE value="P14 求车速 整数转字符串 对称判断" />
-    <MESSAGE value="P15 之阿姆斯特朗数 枚举" />
-    <MESSAGE value="P16 偶完全数 //根据欧拉定理 偶完全数 m=2^(p-1)(2^p-1)" />
-    <MESSAGE value="P17 亲密数 Sqrt(n)范围内的因子枚举算法" />
-    <MESSAGE value="P18 平方对称数" />
-    <MESSAGE value="P19 筛法求素数表（压缩）" />
-    <MESSAGE value="20求具有abcd=(ab+cd)^2性质的四位数" />
-    <MESSAGE value="The number satisfied states condition is:1089" />
-    <MESSAGE value="21歌德巴赫猜想 素数函数及应用（优化）" />
-    <MESSAGE value="22百钱百鸡问题 枚举及优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="22百钱百鸡问题 枚举及优化" />
+    <MESSAGE value="27马克思手稿中的数学题" />
+    <MESSAGE value="P28 最大公约数和最小公倍数 基础数论" />
+    <MESSAGE value="P29 分数比较：最大公约数 接口Comparable ，构造器和toString重载" />
+    <MESSAGE value="P30 分数之和， 利用不等式计算变量区间" />
+    <MESSAGE value="P31埃及分数 贪心计算出每一个最小的k满足 1/k&lt;=a/b 再计算(a/b-1/k)的埃及分数表示" />
+    <MESSAGE value="P32 32列出真分数序列 互质" />
+    <MESSAGE value="P33 分数精确值  a/b如果b仅含 2和5因子则是有限小数，否则一定是无限循环小数：循环节计算方法：（先把b-&gt;b'使得 b'不含2,5因子，然后构造一个最小的k个9，,使得9....9%b'=0,则循环节为k,具体计算可以利用模算术来避免范围溢出的问题。" />
+    <MESSAGE value="34新娘和新郞 逻辑枚举" />
+    <MESSAGE value="35委派任务 枚举组合空间" />
+    <MESSAGE value="P36 谁在说谎 逻辑推导" />
+    <MESSAGE value="P37谁是窃贼 逻辑推理" />
+    <MESSAGE value="P38邮票组合 访问数组标记" />
+    <MESSAGE value="P39 Black or White" />
+    <MESSAGE value="P43 ThreeNumbersUsing1To9 用1~9组成1：2：3优化枚举" />
+    <MESSAGE value="P42 谁家的孩子跑的慢 貌似不太严谨?" />
+    <MESSAGE value="refactor Projects to P65@java" />
+    <MESSAGE value="P44 拉丁方 简单的构造算法" />
+    <MESSAGE value="P45 1-9可以组成三个平方数" />
+    <MESSAGE value="P40 DoctorsDuty" />
+    <MESSAGE value="P47 减式还原：枚举" />
+    <MESSAGE value="P48 9可累进数，深度优先搜索" />
+    <MESSAGE value="P46" />
+    <MESSAGE value="P49约瑟夫问题的数组模拟方法（比较琐碎）" />
+    <MESSAGE value="P50 互不相同的砝码数 搜索数组标记" />
+    <MESSAGE value="P51 分糖果 要理解同时操作 建立上一次操作的副本" />
+    <option name="LAST_COMMIT_MESSAGE" value="P51 分糖果 要理解同时操作 建立上一次操作的副本" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -668,378 +913,374 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/p65/P65.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P13FourDigitsReverseNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P14FindSpeed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="18" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P15NarcissusNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P16PerfectNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P17IntimateNumberPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P18SquareSysmetricNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P19GetPrimers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P12AnExtraordinaryThreeDigitsNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <marker date="1562165867729" expanded="true" signature="106:112" ph="{}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P65.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5428">
-          <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="240" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P13FourDigitsReverseNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P12AnExtraordinaryThreeDigitsNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P11FindSpecialNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P10CountFiveDigitsNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/P10CountFiveDigitsNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P09DivideFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P08SellFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <marker date="1562165867729" expanded="true" signature="106:112" ph="{}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P65.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3774">
-          <caret line="222" column="4" lean-forward="false" selection-start-line="222" selection-start-column="0" selection-end-line="226" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P10CountFiveDigitsNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P09DivideFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <marker date="1562165867729" expanded="true" signature="106:112" ph="{}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P08SellFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P11FindSpecialNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <marker date="1562165867729" expanded="true" signature="106:112" ph="{}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P08SellFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P08SellFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P09DivideFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P10CountFiveDigitsNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P11FindSpecialNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/P11FindSpecialNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P14FindSpeed.java">
+    <entry file="file://$PROJECT_DIR$/src/P14FindSpeed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="38" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="18" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P15NarcissusNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/P15NarcissusNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P16PerfectNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/P16PerfectNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P17IntimateNumberPairs.java">
+    <entry file="file://$PROJECT_DIR$/src/P17IntimateNumberPairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P18SquareSysmetricNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/P18SquareSysmetricNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P19GetPrimers.java">
+    <entry file="file://$PROJECT_DIR$/src/P19GetPrimers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P12AnExtraordinaryThreeDigitsNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/P13FourDigitsReverseNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P20FindSpecialFourDigitsNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P21VerifyGoldbachTheory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P23EinsteinFindStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P24ExchangeCoins.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="14" />
-          <folding />
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/P25FindAges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P28GcdLcm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P26ThreeColorBalls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P33GetExactValueOfFraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P30SumOfFractions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P27MarxManuscript.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P22ChickenHundredsMoney.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P29FractorComparison.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P31EgyptFractions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="50" column="5" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P32ListLowestFraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P34BrideAndGroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P35Assignments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="19" column="67" lean-forward="false" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P05FishingOrSleeping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P06SavingMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P12AnExtraordinaryThreeDigitsNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P38ComposeStamps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P37WhoIsCrimer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P36WhoLies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P08SellFish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P64BeautyContest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P65BigIntegerAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P39BlackOrWhite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P40DoctorsDuty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="63" lean-forward="false" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P45ThreeSquareNumbersUsing1To9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
-            <marker date="1562165867729" expanded="true" signature="106:112" ph="{}" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P13FourDigitsReverseNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/P44LatinSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="92">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P20FindSpecialFourDigitsNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/P43ThreeNumbersUsing1To9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        <state relative-caret-position="138">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P21VerifyGoldbachTheory.java">
+    <entry file="file://$PROJECT_DIR$/src/P42FindSlowestBoy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="207">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P65.txt">
+    <entry file="file://$PROJECT_DIR$/src/P41FindNationalities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="330" column="0" lean-forward="false" selection-start-line="330" selection-start-column="0" selection-end-line="330" selection-end-column="8" />
+        <state relative-caret-position="46">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/p65/P22ChickenHundredsMoney.java">
+    <entry file="file://$PROJECT_DIR$/src/P47SubstractionRestore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="138">
+          <caret line="6" column="95" lean-forward="false" selection-start-line="6" selection-start-column="95" selection-end-line="6" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P48MagiacNumbeWith1To9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P46PutsEightNumbersAtCube.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P50WeightNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P51DistubeCandies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P65.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="740" column="0" lean-forward="false" selection-start-line="740" selection-start-column="0" selection-end-line="747" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P01GetMaxDivisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P49JosephProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="19" />
           <folding />
         </state>
       </provider>
