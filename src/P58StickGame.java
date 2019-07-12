@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P58StackGame {
+public class P58StickGame {
     public static void main(String[] args) {
         int tot = 21;
         for (Scanner cin = new Scanner(System.in); ; ) {
